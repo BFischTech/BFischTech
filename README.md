@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BFischTech
 - 👀 I’m interested in ... videogames, boardgames, coding in GoDot, logic, history, sci-fi
-- 🌱 I’m currently learning ... Python 3, GDScript (the native script for GoDot, closely related to Python)
-- 💞️ I’m looking to collaborate on ... game project of some sort??  currently seeking a full time job opportunity. 
+- 🌱 I’m currently learning ... AWS Foundations, Python 3, GDScript (the native script for GoDot, closely related to Python)
+- 💞️ I’m looking to collaborate on ... interesting software solutions.
 - 📫 How to reach me ... bfischtech@gmail.com
 
 <!---
